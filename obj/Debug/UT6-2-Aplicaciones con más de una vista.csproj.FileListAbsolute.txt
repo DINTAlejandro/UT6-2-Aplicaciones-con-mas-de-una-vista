@@ -1,0 +1,8 @@
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista.csproj.AssemblyReference.cache
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Controles\ListadoPersonas.g.cs
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Controles\NuevaPersona.g.cs
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\MainWindow.g.cs
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Ventanas\VentanaAddNacionalidad.g.cs
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\App.g.cs
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista_MarkupCompile.cache
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista_MarkupCompile.lref
